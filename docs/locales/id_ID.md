@@ -7,5 +7,5 @@
 
 // first argument is gender, either Person::GENDER_MALE or Person::GENDER_FEMALE, if none specified random gender is used
 // second argument is birth date (DateTime object), if none specified, random birth date is used
-echo $faker->nik(); // "8522246001570940"
+echo $faker->nik(); // "3511144108630001"
 ```
